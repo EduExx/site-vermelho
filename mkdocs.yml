@@ -1,0 +1,9 @@
+site_name: Site da cor Vermelho 
+site_author: Inácio & Eduardo & Adenilson
+site_dir: /var/www/html
+
+theme:
+  name: material
+  language: pt
+  palette:  
+    primary: red
